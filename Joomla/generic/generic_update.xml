@@ -33,7 +33,7 @@
         <changelogurl>https://rodgerbj.github.io/releases/Joomla/generic/generic_changelog.xml</changelogurl>
         <infourl title="agosms">https://rodgerbj.github.io/generic/README.md</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https:////rodgerbj.github.io/releases/Joomla/generic/com_generic_1_1_7.zip        
+            <downloadurl type="full" format="zip">https://rodgerbj.github.io/releases/Joomla/generic/com_generic_1_1_7.zip        
             </downloadurl>
         </downloads>
         <maintainer>Bernie Rodgers</maintainer>
@@ -73,7 +73,7 @@
         <changelogurl>https://rodgerbj.github.io/releases/Joomla/generic/generic_changelog.xml</changelogurl>
         <infourl title="anything">https://rodgerbj.github.io/generic/README.md</infourl>
         <downloads>
-            <downloadurl type="full" format="zip"> https://rodgerbj.github.io/releases/joomla/generic/com_generic_1_1_9.zip
+            <downloadurl type="full" format="zip"> https://rodgerbj.github.io/releases/Joomla/generic/com_generic_1_1_9.zip
             </downloadurl>
         </downloads>
         <maintainer>Bernie Rodgers</maintainer>
@@ -93,7 +93,7 @@
         <changelogurl>https://rodgerbj.github.io/releases/Joomla/generic/generic_changelog.xml</changelogurl>
         <infourl title="anything">https://rodgerbj.github.io/generic/README.md</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://rodgerbj.github.io/releases/joomla/generic/com_generic_1_1_10.zip
+            <downloadurl type="full" format="zip">https://rodgerbj.github.io/releases/Joomla/generic/com_generic_1_1_10.zip
             </downloadurl>
         </downloads>
         <maintainer>Bernie Rodgers</maintainer>
