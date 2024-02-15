@@ -1,0 +1,86 @@
+<changelogs>
+<!-- copy this file to updates/Joomla4/ -->
+	<changelog>
+		<element>com_generic</element>
+		<type>component</type>
+		<version>1.1.6</version>
+		<note>
+			<item>Pre test Version</item>
+		</note>
+	</changelog>
+	<changelog>
+		<element>com_generic</element>
+		<type>component</type>
+		<version>1.1.7</version>
+		<security>
+			<item><![CDATA[<p>No security issues.</p>]]></item>
+		</security>
+		<fix>
+			<item>No fix</item>
+		</fix>
+		<language>
+			<item>English</item>
+		</language>
+		<addition>
+			<item>Change log and Update Server added.</item>
+		</addition>
+		<change>
+			<item>No change</item>
+		</change>
+		<remove>
+			<item>No remove</item>
+		</remove>
+		<note>
+			<item>Change log and Update Server added.</item>
+		</note>
+	</changelog>
+	<changelog>
+		<element>com_generic</element>
+		<type>component</type>
+		<version>1.1.8</version>
+		
+		<language>
+			<item>English</item>
+		</language>
+		<addition>
+			<item>Add.</item>
+		</addition>
+		<change>
+			<item>Changed the reference to changelog to generic_changelog.</item>
+		</change>
+		<remove>
+			<item>Removed.</item>
+		</remove>
+		<note>
+			<item>Other Note.</item>
+		</note>
+	</changelog>
+	<changelog>
+	<element>com_generic</element>
+	<type>component</type>
+	<version>1.1.9</version>
+	<security>
+		<item><![CDATA[<p>No security issues.</p>]]></item>
+	</security>
+	<fix>
+		<item><![CDATA[<p>No fix</p>]]></item>
+	</fix>
+	<language>
+		<item><![CDATA[<p>English</p>]]></item>
+	</language>
+	<addition>
+		<item><![CDATA[<p>Add.</p>]]></item>
+	</addition>
+	<change>
+		<item><![CDATA[<p>Change location of zip files and updated version to test snippets.  #	modified:   src/generic.xml</p>]]></item>
+	</change>
+	<remove>
+		<item><![CDATA[<p>#	deleted:    generic_changelog.xml
+#	deleted:    generic_update.xml
+</p>]]></item>
+	</remove>
+	<note>
+		<item><![CDATA[<p>Other Note.</p>]]></item>
+	</note>
+	</changelog>
+</changelogs>
