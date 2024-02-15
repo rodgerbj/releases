@@ -9,10 +9,10 @@
         <type>component</type>
         <version>1.1.6</version>
         <!-- as of Feb 12 2024 -->
-        <changelogurl>https://updates.bernierodgers.com/Joomla4/generic_changelog.xml</changelogurl>
+        <changelogurl>https://rodgerbj.github.io/releases/Joomla/generic/generic_changelog.xml</changelogurl>
         <infourl title="agosms">>https://rodgerbj.github.io/generic/README.md</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https:////bernierodgers.com/public/releases/Joomla/generic/com_generic_1_1_6.zip
+            <downloadurl type="full" format="zip">https://rodgerbj.github.io/releases/Joomla/generic/com_generic_1_1_6.zip
             </downloadurl>
         </downloads>
         <maintainer>Bernie Rodgers</maintainer>
@@ -30,10 +30,10 @@
         <type>component</type>
         <version>1.1.7</version>
         <!-- as of Feb 12 2024 -->
-        <changelogurl>https://updates.bernierodgers.com/Joomla4/generic_changelog.xml</changelogurl>
+        <changelogurl>https://rodgerbj.github.io/releases/Joomla/generic/generic_changelog.xml</changelogurl>
         <infourl title="agosms">https://rodgerbj.github.io/generic/README.md</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https:////bernierodgers.com/public/releases/Joomla/generic/com_generic_1_1_7.zip        
+            <downloadurl type="full" format="zip">https:////rodgerbj.github.io/releases/Joomla/generic/com_generic_1_1_7.zip        
             </downloadurl>
         </downloads>
         <maintainer>Bernie Rodgers</maintainer>
@@ -50,10 +50,10 @@
         <!-- element should mat the value in the element column in the #_extensions table of the database. -->
         <type>component</type>
         <version>1.1.8</version>
-        <changelogurl>https://updates.bernierodgers.com/Joomla4/generic_changelog.xml</changelogurl>
+        <changelogurl>https://rodgerbj.github.io/releases/Joomla/generic/generic_changelog.xml</changelogurl>
         <infourl title="anything">https://rodgerbj.github.io/generic/README.md</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://bernierodgers.com/public/releases/Joomla/generic/com_generic_1_1_8.zip
+            <downloadurl type="full" format="zip">https://rodgerbj.github.io/releases/Joomla/generic/com_generic_1_1_8.zip
             </downloadurl>
         </downloads>
         <maintainer>Bernie Rodgers</maintainer>
@@ -70,10 +70,30 @@
         <!-- element should mat the value in the element column in the #_extensions table of the database. -->
         <type>component</type>
         <version>1.1.9</version>
-        <changelogurl>https://updates.bernierodgers.com/Joomla4/generic_changelog.xml</changelogurl>
+        <changelogurl>https://rodgerbj.github.io/releases/Joomla/generic/generic_changelog.xml</changelogurl>
         <infourl title="anything">https://rodgerbj.github.io/generic/README.md</infourl>
         <downloads>
-            <downloadurl type="full" format="zip">https://1drv.ms/u/s!AjSlHS7NVYQgnd5DPzxdB2ahSiftfw?e=am9vVe
+            <downloadurl type="full" format="zip"> https://rodgerbj.github.io/releases/joomla/generic/com_generic_1_1_9.zip
+            </downloadurl>
+        </downloads>
+        <maintainer>Bernie Rodgers</maintainer>
+        <maintainerurl>http://www.bernierodgers.com</maintainerurl>
+        <targetplatform name="joomla" version="4.*"/>
+        <php_minimum>7.1</php_minimum>
+    </update>
+    <update>
+        <name>com_generic</name>
+        <!-- name is displayed in the Extension Manger Update view.  Use the same name as the extension -->
+        <description>This is update server for com_generic</description>.
+        <!-- description is what is displayed when hover over the name in the Update view -->
+        <element>com_generic</element>
+        <!-- element should mat the value in the element column in the #_extensions table of the database. -->
+        <type>component</type>
+        <version>1.1.10</version>
+        <changelogurl>https://rodgerbj.github.io/releases/Joomla/generic/generic_changelog.xml</changelogurl>
+        <infourl title="anything">https://rodgerbj.github.io/generic/README.md</infourl>
+        <downloads>
+            <downloadurl type="full" format="zip">https://rodgerbj.github.io/releases/joomla/generic/com_generic_1_1_10.zip
             </downloadurl>
         </downloads>
         <maintainer>Bernie Rodgers</maintainer>

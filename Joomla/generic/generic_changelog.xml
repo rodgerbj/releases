@@ -83,4 +83,30 @@
 		<item><![CDATA[<p>Other Note.</p>]]></item>
 	</note>
 	</changelog>
+	<changelog>
+	<element>com_generic</element>
+	<type>component</type>
+	<version>1.1.10</version>
+	<security>
+		<item><![CDATA[<p>No security issues.</p>]]></item>
+	</security>
+	<fix>
+		<item><![CDATA[<p>Fix</p>]]></item>
+	</fix>
+	<language>
+		<item><![CDATA[<p>English</p>]]></item>
+	</language>
+	<addition>
+		<item><![CDATA[<p>Add.</p>]]></item>
+	</addition>
+	<change>
+		<item><![CDATA[<p>#	modified:   src/generic.xml to reflect update server on github releases repository.</p>]]></item>
+	</change>
+	<remove>
+		<item><![CDATA[<p>Removed.</p>]]></item>
+	</remove>
+	<note>
+		<item><![CDATA[<p>Other Note.</p>]]></item>
+	</note>
+	</changelog>
 </changelogs>
