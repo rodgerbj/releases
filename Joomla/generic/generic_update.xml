@@ -130,7 +130,6 @@
         <!-- element should mat the value in the element column in the #_extensions table of the database. -->
         <type>component</type>
         <version>1.1.12</version>
-        Joomla/generic/com_generic_1_1_11.zip
         <changelogurl>https://rodgerbj.github.io/releases/Joomla/generic/generic_changelog.xml</changelogurl>
         <infourl title="anything">https://rodgerbj.github.io/releases/README.md</infourl>
         <downloads>
